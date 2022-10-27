@@ -17,5 +17,4 @@
 <a > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="50" height="50"/> </a>
 <a><img  src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="50" height="50"></a>
 <a > <img src="https://user-images.githubusercontent.com/105747069/168905053-37156b6b-f674-4fab-a772-8b5251102414.svg"  width="50" height="50"/> </a> 
-<a><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"></a>
  </p>
